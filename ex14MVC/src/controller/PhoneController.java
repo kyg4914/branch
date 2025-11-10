@@ -9,7 +9,7 @@ import view.PhoneView;
 public class PhoneController {
 
 	public void run() {
-
+	
 		PhoneView view = new PhoneView();
 		PhoneDAO dao = new PhoneDAO();
 
