@@ -12,6 +12,7 @@ public class PhoneView {
 	//메뉴 출력 하는 메소드
 	public int showMenu() {
 		System.out.println("전화번호부 관리 프로그램");
+		System.out.println("보경 수정");
 		System.out.println("[1]전화번호 추가 [2]전체 조회 [3]번호 삭제");
 		
 		int choice = sc.nextInt();
